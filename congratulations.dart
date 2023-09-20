@@ -35,6 +35,7 @@ class _CongratulationsScreenState extends State<CongratulationsScreen> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              const SizedBox(height: 30,),
             const SizedBox(
               height: 200,
               width: 193,
